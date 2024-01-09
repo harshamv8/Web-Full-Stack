@@ -1,1 +1,1 @@
-"web full stack" 
+"Full stack web" 
